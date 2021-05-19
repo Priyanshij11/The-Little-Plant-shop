@@ -6,7 +6,8 @@ body {
     font-family: "Roboto", sans-serif;
     font-size: 15px;
     font-weight: 400;
-    line-height: 1.667
+    line-height: 1.667;
+    overflow: hidden;
 }
 
 ul {
@@ -4828,4 +4829,3 @@ a {
         padding-top: 115px !important;
         padding-bottom: 115px !important
     }
-}
